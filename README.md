@@ -1,3 +1,2 @@
 # SOL FAUCET
-### Airdrop SOL(devnet) easily using this simple and straight forward website!
-
+### Easily Airdrop SOL (devnet) using this simple and straightforward website!
